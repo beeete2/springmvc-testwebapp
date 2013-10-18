@@ -1,5 +1,6 @@
 <html>
 <head>
+  <%@ include file="/WEB-INF/views/common/html_header.jsp" %>
   <title>Home</title>
 </head>
 <body>

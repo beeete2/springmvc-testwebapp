@@ -15,6 +15,7 @@
         <webClassPathEntry>M2_REPO/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/commons-digester/commons-digester/2.0/commons-digester-2.0.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar</webClassPathEntry>
+        <webClassPathEntry>M2_REPO/javax/servlet/jstl/1.2/jstl-1.2.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/junit/junit-dep/4.4/junit-dep-4.4.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/org/apache/tiles/tiles-api/2.2.2/tiles-api-2.2.2.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/org/apache/tiles/tiles-core/2.2.2/tiles-core-2.2.2.jar</webClassPathEntry>
@@ -25,6 +26,7 @@
         <webClassPathEntry>M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/org/hibernate/hibernate-validator/5.0.0.Final/hibernate-validator-5.0.0.Final.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA.jar</webClassPathEntry>
+        <webClassPathEntry>M2_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/org/springframework/security/spring-security-acl/3.1.2.RELEASE/spring-security-acl-3.1.2.RELEASE.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/org/springframework/security/spring-security-config/3.1.2.RELEASE/spring-security-config-3.1.2.RELEASE.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/org/springframework/security/spring-security-core/3.1.2.RELEASE/spring-security-core-3.1.2.RELEASE.jar</webClassPathEntry>

@@ -40,6 +40,7 @@
   <classpathentry kind="var" path="M2_REPO/org/apache/tiles/tiles-servlet/2.2.2/tiles-servlet-2.2.2.jar" sourcepath="M2_REPO/org/apache/tiles/tiles-servlet/2.2.2/tiles-servlet-2.2.2-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/tiles/tiles-template/2.2.2/tiles-template-2.2.2.jar" sourcepath="M2_REPO/org/apache/tiles/tiles-template/2.2.2/tiles-template-2.2.2-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/taglibs/standard/1.1.2/standard-1.1.2.jar" sourcepath="M2_REPO/taglibs/standard/1.1.2/standard-1.1.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/junit/junit-dep/4.4/junit-dep-4.4.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar" sourcepath="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar"/>
 </classpath>
