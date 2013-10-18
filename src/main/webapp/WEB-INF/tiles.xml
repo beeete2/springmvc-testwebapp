@@ -4,13 +4,16 @@
  "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
  
 <tiles-definitions>
- <!-- ベースのレイアウト -->
- <definition name="baseLayout" template="/WEB-INF/tiles/common/layout.jsp">
+ 
+ <definition name="baseLayout" template="/WEB-INF/tiles/common/base.jsp">
  </definition>
  
  <definition name="index" extends="baseLayout">
-   <put-attribute name="titleName" value="テスト" />
-   <put-attribute name="body"      value="/WEB-INF/tiles/index.jsp" />
+   <put-attribute name="body" value="/WEB-INF/tiles/index.jsp" />
+ </definition>
+ 
+  <definition name="sample/pagenation" extends="baseLayout">
+   <put-attribute name="body" value="/WEB-INF/tiles/sample/pagenation.jsp" />
  </definition>
  
 </tiles-definitions>
